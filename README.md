@@ -6,3 +6,6 @@ Dataset Link: https://insights.stackoverflow.com/survey
 
 
 Model Used: Decision Tree
+
+
+Deployed Web App Link: https://salary-prediction-mmf.herokuapp.com/
